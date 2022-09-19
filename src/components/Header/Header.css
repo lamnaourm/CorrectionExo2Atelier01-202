@@ -1,0 +1,10 @@
+header {
+    background-image: url(../../images/logo.png);
+    background-repeat: no-repeat;
+    background-position-y:20px; ;
+    padding: 10px;
+}
+
+header .titre {
+    margin-left: 185px;
+}
